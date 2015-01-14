@@ -1,0 +1,40 @@
+
+menupack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+expert
+  rotate: false
+  xy: 1, 2
+  size: 140, 24
+  orig: 140, 24
+  offset: 0, 0
+  index: -1
+medium
+  rotate: false
+  xy: 143, 3
+  size: 141, 23
+  orig: 141, 23
+  offset: 0, 0
+  index: -1
+hard
+  rotate: false
+  xy: 286, 4
+  size: 100, 22
+  orig: 100, 22
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 388, 1
+  size: 98, 25
+  orig: 98, 25
+  offset: 0, 0
+  index: -1
+easy
+  rotate: false
+  xy: 488, 2
+  size: 94, 24
+  orig: 94, 24
+  offset: 0, 0
+  index: -1

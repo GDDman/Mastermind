@@ -1,0 +1,47 @@
+
+pegpack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 593
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 297
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 297, 593
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 1
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 297, 297
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 593, 593
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
